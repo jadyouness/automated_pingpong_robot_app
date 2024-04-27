@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1082364750764",
+    "firebase_url": "https://beproject-c3e71-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "beproject-c3e71",
+    "storage_bucket": "beproject-c3e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082364750764:android:8a4443e8fb337a7448e809",
+        "android_client_info": {
+          "package_name": "com.example.ping_pong_table"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC89HfkvhPKwX9GjQ1BSDdHW7vcuxNSlfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
